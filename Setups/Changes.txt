@@ -1,0 +1,14 @@
+28/02/2005 : Version 1.3
+
+	- Changer le nom pour SimpleCalculator.
+	- Corriger un bug qui empêchait l'ajout en mémoire de la réponse d'un calcul.
+
+22/01/2004 : Version 1.2
+
+	- Changer le nom pour DCalculator.
+	- Ajouter le support pour les styles visuels de Windows XP.
+
+01/11/2003 : Version 1.1
+
+	- Modifier le noyaux du code qui est maintenant dans une classe.
+	- Ajouter des images au lieu des boutons.
